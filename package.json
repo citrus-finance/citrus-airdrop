@@ -1,0 +1,12 @@
+{
+  "name": "citrus-airdrop",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "repository": "git@github.com:citrus-finance/citrus-airdrop.git",
+  "author": "Tom <84812080+0xtomm@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ethers": "^5.5.4"
+  }
+}
